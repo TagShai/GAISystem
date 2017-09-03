@@ -1,0 +1,7 @@
+.idea/*
+target/*
+
+/gaiSystem.iml
+/.war
+/.ear
+/.jar
